@@ -1,4 +1,7 @@
+# ce programme d'un ennuie monumentale
+"""
 
+"""
 nombre1 = float(input("Entre le premier nombre : "))
 operation = input("Choisis une opération (+, -, *, /) : ")
 nombre2 = float(input("Entre le deuxième nombre : "))
