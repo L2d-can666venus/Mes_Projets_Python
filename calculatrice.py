@@ -1,4 +1,4 @@
-# ce programme d'un ennuie monumentale
+# ce programme est d'un ennuie monumentale
 """
 
 """
