@@ -1,8 +1,6 @@
- nom =input("donne ton nom !!")
+nom =input("donne ton nom !!")
 age = int(input("donne ton age !!"))
-"""
-Ce programme n'es que partiellement compléte car j'ai pas encore appris  le reste des notion.21
-"""
+
 # cette fonction vas s'exécuté en lisant le nombre entré par l'utilisateur.
 if age < 21:
  print("il n'as pas encore l'age pour lire python !!")
