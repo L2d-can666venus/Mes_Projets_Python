@@ -34,4 +34,4 @@ else:
 
 venus = input("please enter your favorite prenom: ")
 print(f"{name}, your favorite prenom is {venus}.")
-print("my favorite prenom is Venus because it is the name of the goddess of love and beauty in Roman mythology and she is my grlfriend. I love her because she is beautiful, kind, and caring. I want to spend the rest of my life with her and make her happy. I will always cherish and respect her, and I will never let anyone hurt her. She is my everything, and I am grateful to have her in my life.")
+print("my favorite prenom is bintou because it is the name of the goddess of love and beauty in Roman mythology and she is my grlfriend. I love her because she is beautiful, kind, and caring. I want to spend the rest of my life with her and make her happy. I will always cherish and respect her, and I will never let anyone hurt her. She is my everything, and I am grateful to have her in my life.")
