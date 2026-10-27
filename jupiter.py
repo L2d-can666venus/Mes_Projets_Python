@@ -33,7 +33,7 @@ print("hello World".index('Wor'))
 print("hello World".split())
 
 # 12
-print("hi World".replace("World", "harry"))
+print("hi World".replace("World", "Ahmed"))
 
 # 13
 print("hello World 20".isdigit())
@@ -48,7 +48,7 @@ print("50".zfill(10))
 print("hello World".upper())
 
 # 17
-print("I'm harry".swapcase())
+print("I'm Ahmed".swapcase())
 
 # 18
 print("Company12".isalnum())

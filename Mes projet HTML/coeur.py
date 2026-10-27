@@ -14,7 +14,7 @@ stylo.penup()
 
 for _ in range(1800):
     t = random.uniform(0, 2 * math.pi)
-
+ 
     x = 16 * math.sin(t) ** 3
     y = (
         13 * math.cos(t)
@@ -25,7 +25,7 @@ for _ in range(1800):
 
     stylo.goto(x * 20, y * 20)
     stylo.color(random.choice(["hot pink", "pink", "deep pink"]))
-    stylo.write("LOVE YOU", align="center", font=("Arial", 8, "bold"))
+    stylo.write("I LOVE YOU BINTOU", align="center", font=("Arial", 8, "bold"))
 
 ecran.update()
-turtle.done()
+turtle.done() 
