@@ -25,7 +25,7 @@ for _ in range(1800):
 
     stylo.goto(x * 20, y * 20)
     stylo.color(random.choice(["hot pink", "pink", "deep pink"]))
-    stylo.write("I LOVE YOU BINTOU", align="center", font=("Arial", 8, "bold"))
+    stylo.write("I LOVE YOU VENUS", align="center", font=("Arial", 8, "bold"))
 
 ecran.update()
 turtle.done() 
