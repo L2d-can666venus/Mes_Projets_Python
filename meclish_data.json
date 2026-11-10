@@ -1,0 +1,87 @@
+{
+    "profile": {
+        "username": "MECLISH",
+        "role": "Developer in Progress",
+        "ambition": "Become an expert in programming and cybersecurity"
+    },
+    "roadmap": {
+        "Programming": [
+            "Python fundamentals",
+            "Algorithms and logic",
+            "Object-oriented programming",
+            "Git and GitHub",
+            "HTML / CSS / JavaScript",
+            "Databases",
+            "Web development",
+            "API development",
+            "Software engineering",
+            "Application development",
+            "Game development"
+        ],
+        "Cybersecurity": [
+            "Linux fundamentals",
+            "Kali Linux",
+            "Computer networks",
+            "TCP/IP and DNS",
+            "Nmap",
+            "Network security",
+            "Web security",
+            "Ethical hacking",
+            "Penetration testing in authorized labs",
+            "Defensive cybersecurity",
+            "Digital forensics",
+            "Cryptography"
+        ],
+        "University": [
+            "General English",
+            "Translation",
+            "Interpretation",
+            "Localization",
+            "Grammar and vocabulary",
+            "Academic writing",
+            "Linguistics",
+            "Communication skills"
+        ],
+        "Personal Development": [
+            "Discipline",
+            "Concentration",
+            "Time management",
+            "Independent learning",
+            "Critical thinking",
+            "Consistency",
+            "Self-confidence"
+        ]
+    },
+    "projects": [
+        {
+            "name": "Omega Nexus",
+            "description": "Interactive programming and cybersecurity laboratory",
+            "status": "In development"
+        },
+        {
+            "name": "Kivora",
+            "description": "Web development project",
+            "status": "0"
+        },
+        {
+            "name": "Lunati",
+            "description": "Python game project",
+            "status": "Planned"
+        },
+        {
+            "name": "Mes Projets Python",
+            "description": "Personal Python development portfolio",
+            "status": "Active"
+        },
+        {
+            "name": "2",
+            "description": "0",
+            "status": "Delete"
+        }
+    ],
+    "tasks": [],
+    "journal": [],
+    "completed": [],
+    "skills": {},
+    "daily_goals": []
+}
