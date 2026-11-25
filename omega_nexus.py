@@ -486,6 +486,7 @@ def calculator():
         error("Entrée numérique invalide.")
 
     except OverflowError:
+
         error("Résultat trop grand.")
 
     pause()
