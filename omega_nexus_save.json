@@ -1,0 +1,44 @@
+{
+    "username": "Hp",
+    "created": "2026-11-09 23:21:59",
+    "level": 1,
+    "xp": 75,
+    "missions_completed": 1,
+    "history": [
+        {
+            "action": "Leçon : HACHAGE",
+            "date": "2026-11-09 23:22:43"
+        },
+        {
+            "action": "Consultation des informations système",
+            "date": "2026-11-10 10:34:16"
+        },
+        {
+            "action": "Génération d'un mot de passe",
+            "date": "2026-11-10 10:34:58"
+        },
+        {
+            "action": "Analyse de mot de passe",
+            "date": "2026-11-10 10:35:24"
+        },
+        {
+            "action": "Génération de hash",
+            "date": "2026-11-10 10:37:46"
+        },
+        {
+            "action": "Calcul scientifique",
+            "date": "2026-11-10 10:43:28"
+        },
+        {
+            "action": "Défi de logique réussi",
+            "date": "2026-11-10 11:00:43"
+        }
+    ],
+    "notes": [
+        {
+            "content": "Je crois que ma Hadja est bipolaire.",
+            "date": "10/11/2026 10:45"
+        }
+    ],
+    "password_hashes": []
+}
